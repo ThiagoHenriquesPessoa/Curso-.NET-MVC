@@ -149,3 +149,8 @@ C:\Users\thiag\source\repos\CursoMVC\CursoMVC\obj\Debug\net5.0\Razor\Views\Categ
 C:\Users\thiag\source\repos\CursoMVC\CursoMVC\obj\Debug\net5.0\Razor\Views\Categorias\Details.cshtml.g.cs
 C:\Users\thiag\source\repos\CursoMVC\CursoMVC\obj\Debug\net5.0\Razor\Views\Categorias\Edit.cshtml.g.cs
 C:\Users\thiag\source\repos\CursoMVC\CursoMVC\obj\Debug\net5.0\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\thiag\source\repos\CursoMVC\CursoMVC\obj\Debug\net5.0\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Users\thiag\source\repos\CursoMVC\CursoMVC\obj\Debug\net5.0\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Users\thiag\source\repos\CursoMVC\CursoMVC\obj\Debug\net5.0\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Users\thiag\source\repos\CursoMVC\CursoMVC\obj\Debug\net5.0\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Users\thiag\source\repos\CursoMVC\CursoMVC\obj\Debug\net5.0\Razor\Views\Produtos\Index.cshtml.g.cs
